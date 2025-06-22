@@ -1,5 +1,4 @@
 # gimmesomethingtotalkabout
-# 멀티툴 AI 프로그램 (Final Project - Gemini API 연동 버전)
 
 이 프로그램은 사용자의 요청에 따라 다양한 상호작용 기능을 제공하는 파이썬 기반의 콘솔 애플리케이션입니다.
 Google의 Gemini API를 연동하여, 미리 정해진 답변이 아닌 실시간 추론을 통해 지능적인 상호작용을 제공합니다.
